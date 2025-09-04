@@ -6,4 +6,5 @@ USE `UniversityDB`;
 
 -- Verification (Optional): 
 -- You can add a simple query to verify the database is selected.
-SELECT DATABASE(); -- This will show the currently selected database.
+SELECT DATABASE(); 
+-- This will show the currently selected database.
